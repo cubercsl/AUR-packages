@@ -8,7 +8,7 @@ fi
 
 mkdir "$pkgname"
 
-echo "# Maintainer: Your Name <your email>
+echo "# Maintainer: cubercsl <2014cais01 at gmail dot com>
 
 pkgname=${pkgname}
 pkgver=
