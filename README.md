@@ -3,7 +3,7 @@ AUR-package maintained by [cubercsl](https://aur.archlinux.org/packages/?SeB=m&K
 
 | Package | Status |
 | --- | --- |
-| [rime-flypy](rime-flypy) | ![](https://img.shields.io/aur/version/rime-flypy?label=rime-flypy) ![](https://img.shields.io/aur/last-modified/rime-flypy) | 
+| [rime-flypy](rime-flypy) | ![](https://img.shields.io/aur/version/rime-flypy) ![](https://img.shields.io/aur/last-modified/rime-flypy) |
 
 ## Template
 
