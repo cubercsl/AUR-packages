@@ -24,10 +24,10 @@ cd "$pkg"
 source PKGBUILD
 
 updpkgsums
-makepkg --printsrcinfo >.SRCINFO
 
-git add PKGBUILD .SRCINFO
+git add PKGBUILD
 
+rm -r src || true
 git clean -dxn
 confirm
 git clean -dxf
